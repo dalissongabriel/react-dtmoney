@@ -8,7 +8,8 @@ export const GlobalStyle = createGlobalStyle`
         --shape-principal: #969CB2;
         --vermelho: #969CB2;
         --verde: #33CC95;
-        --roxo: #5429CC;
+        --azul: #5429CC;
+        --azul-claro: #6933FF;
     }
     * {
         margin: 0;
@@ -37,6 +38,7 @@ export const GlobalStyle = createGlobalStyle`
     }
     button {
         cursor: pointer;
+        border: none;
     }
     [disabled] {
         opacity: 0.6;
