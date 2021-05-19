@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
     :root {
         --background: #F0F2F5;
         --textos: #969CB2;
-        --titulos: #969CB2;
+        --titulos: #363F5F;
         --shape-principal: #969CB2;
         --vermelho: #969CB2;
         --verde: #33CC95;
@@ -26,7 +26,7 @@ export const GlobalStyle = createGlobalStyle`
         }
     }
     body {
-        background: var(---background);
+        background: var(--background);
         -webkit-font-smoothing: antialiased;
     }
     body, input, textarea, button {
