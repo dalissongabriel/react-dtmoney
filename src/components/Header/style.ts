@@ -12,7 +12,7 @@ export const Content = styled.div`
     align-items: center;
     justify-content: space-between;
 
-    padding: 2rem 1rem 13rem;
+    padding: 2rem 1rem 9.2rem;
 
     button {
         color: #fff;
