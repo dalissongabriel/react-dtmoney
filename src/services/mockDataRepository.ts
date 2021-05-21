@@ -8,19 +8,19 @@ export const transactionsData = [
         createdAt: new Date()
     },
     {
-        id:1,
+        id:2,
         title: "Horas Extras",
         amount: 200,
         type: 'deposity',
         category: 'CLT',
-        createdAt: new Date()
+        createdAt: new Date("2021-05-16 11:00:34")
     },
     {
-        id:1,
+        id:3,
         title: "Aluguel",
         amount: 400,
         type: 'withdraw',
         category: 'Custos Fixos',
-        createdAt: new Date()
+        createdAt: new Date("2021-05-18 16:37:41")
     }
 ]
