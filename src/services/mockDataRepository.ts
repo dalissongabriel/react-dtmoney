@@ -3,7 +3,7 @@ export const transactionsData = [
         id:1,
         title: "Desenvolvimento de site",
         amount: 1000,
-        type: 'deposity',
+        type: 'deposit',
         category: 'Freela',
         createdAt: new Date()
     },
@@ -11,7 +11,7 @@ export const transactionsData = [
         id:2,
         title: "Horas Extras",
         amount: 200,
-        type: 'deposity',
+        type: 'deposit',
         category: 'CLT',
         createdAt: new Date("2021-05-16 11:00:34")
     },

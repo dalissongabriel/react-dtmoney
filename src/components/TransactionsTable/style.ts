@@ -31,7 +31,7 @@ export const Container = styled.div`
                 color: var(--titulos);
             }
 
-            &.deposity {
+            &.deposit {
                 color: var(--verde);
             }
 
