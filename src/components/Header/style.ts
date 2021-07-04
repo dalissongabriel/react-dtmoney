@@ -29,5 +29,10 @@ export const Content = styled.div`
         &:hover {
             filter: brightness(0.9);
         }
+
+        @media (max-width: 720px) {
+            width: 8rem;
+            font-size: 0.75rem;
+        }
     }
 `;
