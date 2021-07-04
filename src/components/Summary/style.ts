@@ -17,6 +17,10 @@ export const Container = styled.div`
         padding: 1.5rem 2rem;
         border-radius: 0.25rem;
 
+        @media (max-width: 720px) {
+            width: 18rem;
+        }
+
         header {
             display: flex;
             align-items: center;
