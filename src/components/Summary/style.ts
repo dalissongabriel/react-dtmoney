@@ -6,6 +6,11 @@ export const Container = styled.div`
     gap: 2rem;
     margin-top: -6rem;
 
+    @media (max-width: 720px) {
+        overflow: scroll;
+        gap: 1rem;
+    }
+
     div {
         background: #FFFFFF;
         color: var(--titulos);
