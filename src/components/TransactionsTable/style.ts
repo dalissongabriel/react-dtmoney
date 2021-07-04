@@ -1,6 +1,12 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
+    @media (max-width: 720px) {
+        max-width: 1120px;
+        width: 100%;
+        overflow: scroll;
+    }
+   
     table {
         width: 100%;
         margin-top: 4rem;
