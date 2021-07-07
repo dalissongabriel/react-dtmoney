@@ -25,22 +25,21 @@
   </p>
 
 <p align="center">
-  <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 👨🏻‍💻 Sobre este projeto
+<h2 id="sobre" >👨🏻‍💻 Sobre este projeto</h2>
 
 <p>Faça o acompanhamento de suas finanças, registre suas entradas e despesas através uma interface simples e responsiva 🤘
 
 Caso esteja curioso, acesse a aplicação rodando na Vercel: <a href="https://react-dtmoney.vercel.app/">DtMoney</a> 👈</p>
 
-## 🚀 Tecnologias utilizadas
+<h2 id="techs">🚀 Tecnologias utilizadas</h2>
 
-Lista de tecnologias que usei para desenvolver esse app:
+<p>Lista de tecnologias que usei para desenvolver esse app:</p>
 
 - [ReactJS](https://reactjs.org/)
 - [React Modal](https://www.npmjs.com/package/react-modal)
@@ -50,7 +49,7 @@ Lista de tecnologias que usei para desenvolver esse app:
 - [Miragejs](https://miragejs.com/)
 - [Vercel](https://vercel.com/)
 
-## 💻 Rodando o projeto
+<h2 id="rodar">💻 Rodando o projeto</h2>
 
 ### Pré requisitos
 
@@ -73,7 +72,7 @@ $ yarn
 $ yarn start
 ```
 
-## 🤔 Como você pode contribuir
+<h2 id="contribuir">🤔 Como você pode contribuir</h2>
 
 **Faça um "fork" deste repositório**
 
