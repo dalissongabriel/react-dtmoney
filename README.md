@@ -28,7 +28,7 @@
   <a href="#sobre">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contribuir">Como contribuir</a>
 </p>
 
 <h2 id="sobre" >👨🏻‍💻 Sobre este projeto</h2>
@@ -59,17 +59,17 @@ Caso esteja curioso, acesse a aplicação rodando na Vercel: <a href="https://re
 **Clonar este projeto e entrar na pasta**
 
 ```bash
-$ git clone git@github.com:dalissongabriel/react-dtmoney.git && cd react-dtmoney 
+git clone git@github.com:dalissongabriel/react-dtmoney.git && cd react-dtmoney 
 ```
 
 **Execute os seguintes passos**
 
 ```bash
 # Instale as dependências
-$ yarn
+yarn
 
 # Inicie a aplicação
-$ yarn start
+yarn start
 ```
 
 <h2 id="contribuir">🤔 Como você pode contribuir</h2>
@@ -80,23 +80,23 @@ $ yarn start
 # Faça o "fork" utlizando a CLI gh do próprio github
 # Se você não tiver a CLI, também pode optar por usar o site do github para fazer o "fork"
 
-$ gh repo clone dalissongabriel/react-dtmoney 
+gh repo clone dalissongabriel/react-dtmoney 
 ```
 
 **Execute os seguintes passos**
 
 ```bash
 # Clone o seu "fork"
-$ git clone git@github.com:SEU_USUARIO/NOME_SEU_REPOSITORIO.git && cd NOME_SEU_REPOSITORIO
+git clone git@github.com:SEU_USUARIO/NOME_SEU_REPOSITORIO.git && cd NOME_SEU_REPOSITORIO
 
 # Crie uma branch para sua "feature" ou "fix"
-$ git checkout -b feature/minha-funcionalidade
+git checkout -b feature/minha-funcionalidade
 
 # Faça commit das tuas alterações
-$ git commit -m 'feat: Minha funcionalidade xpto...'
+git commit -m 'feat: Minha funcionalidade xpto...'
 
 # Envie sua branch com as alterações
-$ git push origin feature/minha-funcionalidade
+git push origin feature/minha-funcionalidade
 ```
 
 Depois que o seu pull request for "mergeado", você pode deletar sua "branch".
