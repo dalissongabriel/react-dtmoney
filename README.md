@@ -2,29 +2,27 @@
 	<img alt="Logo" src=".github/logo.svg" width="200px" />
 </h1>
 
-<h3 align="center"><a href="https://react-dtmoney.vercel.app">DtMoney</a></h3>
+<h3 align="center"><a href="https://react-dtmoney.vercel.app/">DtMoney</a></h3>
 
 <p align="center">App para acompanhamento de finanças</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
+  <img alt="Principal linguagem do repositório" src="https://img.shields.io/github/languages/top/dalissongabriel/react-dtmoney">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+  <a href="https://github.com/dalissongabriel/">
+    <img alt="Desenvolvido por" src="https://img.shields.io/badge/Desenvolvido%20por-Alisson%20Gabriel-green">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/dalissongabriel/react-dtmoney">
   
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
+  <a href="https://github.com/dalissongabriel/react-dtmoney/commits/main">
+    <img alt="Último commit no repositório" src="https://img.shields.io/github/last-commit/dalissongabriel/react-dtmoney">
   </a>
   
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
+  <a href="https://github.com/dalissongabriel/react-dtmoney/issues">
+    <img alt="Issues do repositórios" src="https://img.shields.io/github/issues/dalissongabriel/react-dtmoney">
   </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
-</p>
+  </p>
 
 <p align="center">
   <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -38,7 +36,7 @@
 
 <p>Faça o acompanhamento de suas finanças, registre suas entradas e despesas através uma interface simples e responsiva 🤘
 
-Caso esteja curioso, acesse a aplicação rodando na Vercel:  [DtMoney](react-dtmoney.vercel.app) 👈</p>
+Caso esteja curioso, acesse a aplicação rodando na Vercel: <a href="https://react-dtmoney.vercel.app/">DtMoney</a> 👈</p>
 
 ## 🚀 Tecnologias utilizadas
 
@@ -106,4 +104,4 @@ Depois que o seu pull request for "mergeado", você pode deletar sua "branch".
 
 ---
 
-Projeto desenvolvido por [Alisson Gabriel](https://github.com/dalissongabriel) 🤘
+Projeto desenvolvido por <a href="https://github.com/dalissongabriel">Alisson Gabriel</a> 🤘
